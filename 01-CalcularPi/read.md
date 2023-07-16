@@ -1,0 +1,1 @@
+Agregue una nueva entrega,en esta entrega basicamente modifique la condicion del while porque antes estaba controlando las iteraciones para que me de el resultado.En este programa nuevo la condicion del while es acotar el "sumando" para que cuando sea multiplicador por 4 de como resultado entre 3.141592 y 3.141593 siendo acotado el resultado.
